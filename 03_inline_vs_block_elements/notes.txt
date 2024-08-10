@@ -1,0 +1,7 @@
+p tag is a example of blocke element because by default width of block element is 100%
+a, b tags are example of inline element it only take width according to content
+
+you want to change the name of closing tag when you chane the name of opeening tag then downlode extension auto rename tag
+
+span tag : use when you want to give style to some specific HyperText
+div tag : block element

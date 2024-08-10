@@ -1,0 +1,12 @@
+<a href="link of the website" target = "_blank"></a>
+put target value _blank when want to open link in new tab
+
+ol tag has attribute type through which we can change the numbering pattern like 1,A, a, it also has start attribute
+
+&copy;  for copywrite symbol
+&times; for x symbol
+&nbsp; for add non breaking space in company logo name
+
+//new added
+section routing
+go to top functionality

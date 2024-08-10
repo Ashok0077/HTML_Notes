@@ -1,0 +1,5 @@
+the meaning of semantic is providinfg a valur or meaning to something
+
+header , nav, footer, section these all are sementic tags
+
+semantic inline tag examples : em, strong

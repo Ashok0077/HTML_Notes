@@ -1,0 +1,1 @@
+Our browser can lode any file like html,css,js,pdf,video,audio,image

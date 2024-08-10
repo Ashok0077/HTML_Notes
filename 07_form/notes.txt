@@ -1,0 +1,13 @@
+in url space is replaced by %20
+in url @ is replaced by %40
+
+<input type="submit" value="search">   //give button in form
+<button>submit</button>   //give button in form
+
+button ka type submit by default hota hai
+
+required attribut in input
+
+input for type password also have attribut minlength and maxlength
+
+if you want to select two word and makk two cusor then select the word and press Ctri+d

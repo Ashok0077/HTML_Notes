@@ -1,0 +1,4 @@
+the Global attributes are attributes that can be used with all html element
+example of global attributes are style , hidden,title
+
+custom attribute are also available that mean we can make the html attribute by ourse      lf

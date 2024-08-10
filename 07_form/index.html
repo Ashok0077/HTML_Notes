@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>Login Form</h1>
+    <form action="/">
+      <div><label for="name">Name</label></div>
+      <input id="name" type="text" />
+      <br />
+      <br />
+      <label style="display: block" for="email">Email</label>
+      <input id="email" type="email" />
+      <br />
+      <br />
+      <label style="display: block" for="phone">Phone</label>
+      <input id="phone" type="text" />
+      <br />
+      <br />
+      <label style="display: block" for="password">Password</label>
+      <input id="password" type="password" />
+      <br />
+      <br />
+      <input type="checkbox" required />
+      <span>Agree term & condition</span>
+      <div style="display: block; margin-top: 10px;">
+        <button style="margin-top: 2px" type="reset">Reset</button>
+        <button style="margin-top: 2px">Submit</button>
+      </div>
+    </form>
+
+    <div hidden>
+      <h1>Form in html</h1>
+      <form action="/">
+        <!-- action attribute is very important -->
+        <input type="text" name="name" placeholder="Enter your Name" />
+        <input type="email" name="email" placeholder="Enter yur Email" />
+        <input type="number" name="age" placeholder="age" />
+        <button>submit</button>
+      </form>
+
+      <h1>Youtube Search</h1>
+      <form action="https://www.youtube.com/results">
+        <input type="text" name="search_query" required />
+      </form>
+      <br />
+      <br />
+
+      <!-- label in html form -->
+      <form action="/">
+        <label for="yourName">Name:</label>
+        <input id="yourName" type="text" placeholder="Enter your name" />
+      </form>
+    </div>
+  </body>
+</html>

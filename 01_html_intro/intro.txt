@@ -1,0 +1,15 @@
+shortcut for getting copy history : win + V
+
+img tag is a self closing tag.
+<img src="./ashok.gif" alt="ashok image">
+
+img is a tag and src is a attribute.
+
+try shift+alt+rightArrow
+try shift+alt+up or down arrow
+
+
+if you wantto make a image responsive then try to give that image width and height in %
+
+with width and height there are more attribute knwn as max-width and max-height when screen size is too large then it help to
+maintain a maximum size.
